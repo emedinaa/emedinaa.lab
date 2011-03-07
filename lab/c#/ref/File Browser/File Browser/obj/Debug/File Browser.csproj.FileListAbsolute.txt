@@ -1,0 +1,8 @@
+E:\abhinav new work\File Browser\File Browser\bin\Debug\File Browser.exe
+E:\abhinav new work\File Browser\File Browser\bin\Debug\File Browser.pdb
+E:\abhinav new work\File Browser\File Browser\obj\Debug\ResolveAssemblyReference.cache
+E:\abhinav new work\File Browser\File Browser\obj\Debug\File_Browser.Form1.resources
+E:\abhinav new work\File Browser\File Browser\obj\Debug\File_Browser.Properties.Resources.resources
+E:\abhinav new work\File Browser\File Browser\obj\Debug\File Browser.csproj.GenerateResource.Cache
+E:\abhinav new work\File Browser\File Browser\obj\Debug\File Browser.exe
+E:\abhinav new work\File Browser\File Browser\obj\Debug\File Browser.pdb
